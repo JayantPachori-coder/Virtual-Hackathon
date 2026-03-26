@@ -150,16 +150,7 @@ WHERE s.submission_id IS NULL;
 * ⚙️ Backend integration (FastAPI / Node.js)
 * 🤖 AI-based analytics for hackathon results
 * 🔐 Authentication system
-
----
-
-## 👨‍💻 About Me
-
-**Jayant Pachori**
-🎓 B.Tech CSE | NIIT University
-💡 Interested in Data Science, Backend Development & AI
-
----
+  
 
 ## ⭐ If you like this project
 
